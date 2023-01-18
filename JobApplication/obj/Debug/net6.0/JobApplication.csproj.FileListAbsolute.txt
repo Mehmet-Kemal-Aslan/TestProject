@@ -1,0 +1,15 @@
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplication.csproj.AssemblyReference.cache
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplication.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplication.AssemblyInfo.cs
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\bin\Debug\net6.0\JobApplication.exe
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\bin\Debug\net6.0\JobApplication.deps.json
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\bin\Debug\net6.0\JobApplication.runtimeconfig.json
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\bin\Debug\net6.0\JobApplication.dll
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\bin\Debug\net6.0\JobApplication.pdb
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplication.dll
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\refint\JobApplication.dll
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplication.pdb
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\JobApplication.genruntimeconfig.cache
+C:\Users\Mehmet Kemal\source\repos\JobApplication\JobApplication\obj\Debug\net6.0\ref\JobApplication.dll
